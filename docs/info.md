@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-A single AND GATE
+a few AND Gates and a signle NOT Gate
 
 ## How to test
 
-A single AND GATE connect to the output
+4 outputs to LED's and White will always be on unless all other lights are on.
 
 ## External hardware
 
-Single LED
+4 LEDS
